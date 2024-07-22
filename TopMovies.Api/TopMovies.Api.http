@@ -1,0 +1,6 @@
+@TopMovies.Api_HostAddress = https://localhost:7001/api/v1
+
+GET {{TopMovies.Api_HostAddress}}/movies/
+Accept: application/json
+
+###
